@@ -5,12 +5,7 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=treboryx&label=Profile%20views&color=0e75b6&style=flat"
-    alt="treboryx"
-  />
-</p>
+![](https://api.ghprofile.me/view?username=treboryx&color=purple)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
