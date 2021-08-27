@@ -227,7 +227,7 @@
 
 
 Here's some of the projects I maintain: 
-* [fftx.gr](https://fttx.gr) 
+* [fttx.gr](https://fttx.gr) 
 * [crafty.gg](https://crafty.gg) 
 * [mc-stats](https://github.com/treboryx/mc-stats)
 
