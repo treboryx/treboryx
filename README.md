@@ -222,6 +222,30 @@
       height="40"
     />
   </a>
+  <a href="https://adonisjs.com/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"
+      alt="adonisjs"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://svelte.dev/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"
+      alt="svelte"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://ionicframework.com/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"
+      alt="ionic"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 
