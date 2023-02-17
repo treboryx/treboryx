@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-![](https://api.ghprofile.me/view?username=treboryx&color=purple)
+![](https://komarev.com/ghpvc/?username=treboryx&color=blueviolet)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
