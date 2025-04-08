@@ -1,9 +1,13 @@
+<!---
+
 <a href="https://spotify.roberto.gr/now-playing?open">
     <img src="https://spotify.roberto.gr/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
+---->
+
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Engineer</h3>
 
 ![](https://komarev.com/ghpvc/?username=treboryx&color=blueviolet)
 
@@ -51,7 +55,7 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
       alt="tailwind"
       width="40"
       height="40"
@@ -184,7 +188,7 @@
   </a>
   <a href="https://postman.com" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
       alt="postman"
       width="40"
       height="40"
@@ -246,12 +250,27 @@
       height="40"
     />
   </a>
+  <a href="https://electronjs.org/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"
+      alt="electron"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://vite.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+      alt="vite"
+      width="40"
+      height="40" 
+    />
+  </a>
+  <a href="https://vitest.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" 
+      alt="vitest"
+      width="40"
+      height="40" 
+    />
+  </a>
 </p>
 
-Here's some of the projects I maintain:
-
-- [fttx.gr](https://fttx.gr)
-- [crafty.gg](https://crafty.gg)
-- [mc-stats](https://github.com/treboryx/mc-stats)
-
-[![Robert's github stats](https://github-readme-stats.vercel.app/api?username=treboryx&theme=dark&show_icons=true)](https://github.com/treboryx)
