@@ -1,11 +1,3 @@
-<!---
-
-<a href="https://spotify.roberto.gr/now-playing?open">
-    <img src="https://spotify.roberto.gr/now-playing" width="256" height="64" alt="Now Playing">
-</a>
-
----->
-
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">Full Stack Engineer</h3>
 
